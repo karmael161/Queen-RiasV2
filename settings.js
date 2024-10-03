@@ -9,13 +9,13 @@ const {
 /*--------------------------------------------*/
 
 // Owner
-global.ownername = '𓆩ᬼ⃟𝗚𝗢𝗗⛃⃟༄𝐌𝐈𝐆𝐇𝐓𝐘᭄亗𝐒𝐀𝐒𝐀𝐊𝐈亗࿐' //ur owner name
+global.ownername = 'Just-me' //ur owner name
 /*--------------------------------------------*/
 
 // Information
-global.botname = '𝐌𝐈𝐆𝐇𝐓𝐘-MD' //ur bot name
-global.ownernumber = '237672080608' //ur owner number
-global.premium = ["237672080608"] // Premium User
+global.botname = 'AKASHI-SASAKI' //ur bot name
+global.ownernumber = '242067274660' //ur owner number
+global.premium = ["242067274660"] // Premium User
 /*--------------------------------------------*/
 // Type Choose true or false
 global.typemenu = 'v12' // menu type 'v1' => 'v12'
@@ -36,7 +36,7 @@ global.BOT_TOKEN = '-'
 global.APIKeys = {
    'https://api.zeeoneofc.my.id': '-',
 }   
-global.BOT_NAME = "𝑸𝑼𝑬𝑬𝑵 𝑹𝑰𝑨𝑺 𝑽𝟐"   
+global.BOT_NAME = "AKASHI-SASAKI"   
 global.THUMBNAIL = "https://i.imgur.com/JX7NpaJ.gif"
 global.DONASI = "https://i.imgur.com/JX7NpaJ.gif"
 global.language = indonesia
@@ -70,7 +70,7 @@ global.APIs = {
 /*--------------------------------------------*/
 
 // Prefix & Premium
-global.xprefix = '.'
+global.xprefix = ','
 global.hituet = 0
 
 /*--------------------------------------------*/
