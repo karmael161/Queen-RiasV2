@@ -13,9 +13,9 @@ global.ownername = 'Just-me' //ur owner name
 /*--------------------------------------------*/
 
 // Information
-global.botname = 'AKASHI-SASAKI' //ur bot name
-global.ownernumber = '242067274660' //ur owner number
-global.premium = ["242067274660"] // Premium User
+global.botname = 'GOD-MD' //ur bot name
+global.ownernumber = '237672080608' //ur owner number
+global.premium = ["237672080608"] // Premium User
 /*--------------------------------------------*/
 // Type Choose true or false
 global.typemenu = 'v12' // menu type 'v1' => 'v12'
@@ -36,8 +36,8 @@ global.BOT_TOKEN = '-'
 global.APIKeys = {
    'https://api.zeeoneofc.my.id': '-',
 }   
-global.BOT_NAME = "AKASHI-SASAKI"   
-global.THUMBNAIL = "https://i.imgur.com/JX7NpaJ.gif"
+global.BOT_NAME = "L'ANGE DECHU"   
+global.THUMBNAIL = "https://i.imgur.com/1XM92cI.jpeg"
 global.DONASI = "https://i.imgur.com/JX7NpaJ.gif"
 global.language = indonesia
 global.lang = language //don't change
@@ -70,7 +70,7 @@ global.APIs = {
 /*--------------------------------------------*/
 
 // Prefix & Premium
-global.xprefix = ','
+global.xprefix = '.'
 global.hituet = 0
 
 /*--------------------------------------------*/
