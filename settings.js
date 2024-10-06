@@ -37,8 +37,8 @@ global.APIKeys = {
    'https://api.zeeoneofc.my.id': '-',
 }   
 global.BOT_NAME = "L'ANGE DECHU"   
-global.THUMBNAIL = "https://i.imgur.com/1XM92cI.jpeg"
-global.DONASI = "https://i.imgur.com/JX7NpaJ.gif"
+global.THUMBNAIL = "https://i.imgur.com/8Q8UIB0.jpeg"
+global.DONASI = "https://i.imgur.com/ib1373T.jpeg"
 global.language = indonesia
 global.lang = language //don't change
 
